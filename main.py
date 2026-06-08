@@ -18,3 +18,14 @@ task_2.sum_of_two_digits(99);
 task_2.sum_of_three_digits(332);
 task_2.three_digits_different(123);
 task_2.clock(1000);
+
+# 2.Условный оператор
+import conditional_operator as task_3
+
+task_3.min_max_of_two(10,10);
+task_3.four_digits_or_not(1234);
+task_3.is_it_triangle(3,4,5);
+task_3.what_period_of_day(22);
+task_3.what_day_is_today(7);
+task_3.what_kind_of_int(-12.5);
+task_3.hourse_move(1,1,2,2);
