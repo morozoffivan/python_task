@@ -29,3 +29,13 @@ task_3.what_period_of_day(22);
 task_3.what_day_is_today(7);
 task_3.what_kind_of_int(-12.5);
 task_3.hourse_move(1,1,2,2);
+
+# 3.Цикл for
+import loop as task_4
+
+task_4.int_from_zero(4);
+task_4.int_from_zero_to_k(2,7);
+task_4.sum_from_n_to_k(1,5);
+task_4.sum_of_odds(1,5);
+task_4.sum_of_float(5);
+task_4.sum_of_float_2(5);
