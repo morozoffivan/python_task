@@ -39,3 +39,14 @@ task_4.sum_from_n_to_k(1,5);
 task_4.sum_of_odds(1,5);
 task_4.sum_of_float(5);
 task_4.sum_of_float_2(5);
+
+# 4.Цикл while
+import loop_while as task_5
+
+task_5.print_odd_digits(10,1);
+task_5.print_digits_dev_on_three(1,15);
+task_5.sum_digits_inputs_until_zero(1, 15, 10, 11, 2, 0);
+task_5.max_digits_inputs_until_zero(1, 15, 10, 11, 2, 0);
+task_5.min_digits_inputs_until_zero(1, 15, 10, 11, 2, 0);
+task_5.factorial(3);
+task_5.print_fibonacci_number(10);
