@@ -50,3 +50,19 @@ task_5.max_digits_inputs_until_zero(1, 15, 10, 11, 2, 0);
 task_5.min_digits_inputs_until_zero(1, 15, 10, 11, 2, 0);
 task_5.factorial(3);
 task_5.print_fibonacci_number(10);
+
+# 5.Списки
+
+import list_task as task_6
+test_list = [42, 17, 89, 3, 25, 67, 11, 53, 98, 34];
+
+task_6.list_of_ten_digits();
+task_6.cut_of_list(10,20,20,30,40);
+new_list = task_6.list_with_random(1,2,3,4,5,6,7,8,9,10);
+task_6.clear_new_list(new_list);
+task_6.list_of_char('Hello, world!');
+task_6.del_first_list_from_second([1, 3, 4, 5], [4, 5, 6, 7]);
+task_6.max_el(test_list);
+task_6.min_el(test_list);
+task_6.sum_of_list(test_list);
+task_6.avr_list_num(test_list);
