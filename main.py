@@ -66,3 +66,13 @@ task_6.max_el(test_list);
 task_6.min_el(test_list);
 task_6.sum_of_list(test_list);
 task_6.avr_list_num(test_list);
+
+# 6.Функции
+
+import function as task_7
+
+task_7.area(4);
+task_7.dev_on_three(2);
+task_7.max_num_fo_list([1,2,6,3,4,5]);
+task_7.count_of_even([1, 10, 2, 4, 6, 8,3,9,11]);
+task_7.unique_num([1, 1, 2, 1, 3, 2, 3]);
