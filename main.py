@@ -76,3 +76,12 @@ task_7.dev_on_three(2);
 task_7.max_num_fo_list([1,2,6,3,4,5]);
 task_7.count_of_even([1, 10, 2, 4, 6, 8,3,9,11]);
 task_7.unique_num([1, 1, 2, 1, 3, 2, 3]);
+
+# 7.Словари
+
+import dictionary as task_8
+
+task_8.fruits('Яблоко',3,'Апельсин',3,'Мандарин',10);
+task_8.friends('Алексей', 25, 'Мария', 19, 'Иван', 21);
+task_8.friends_avr('Константин', 25, 'Аня', 19, 'Мария', 22);
+task_8.make_english_dict('grape', 'виноград, виноградный, гроздь');
